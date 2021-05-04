@@ -1,0 +1,29 @@
+header{
+	height: 25%;
+	background: green;
+	color: #aaaaaa;
+}
+
+.main{
+	background: blue;
+	color: #fff;
+}
+.aside{
+	background: green;
+	color: #fff;
+}
+.segundo{
+background: orange;
+color: #fff;
+
+}
+.menu{
+	background: black;
+	color: #fff111;
+}
+.pie{
+
+	height: 75px;
+	background-color: #456987;
+	text-align: center;
+}
